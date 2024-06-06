@@ -1,0 +1,5 @@
+
+Create project
+---- npm create vite@latest
+---- npm i axios
+
